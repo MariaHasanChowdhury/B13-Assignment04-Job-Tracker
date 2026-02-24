@@ -34,6 +34,6 @@ Example: document.getElementById('container').appendChild(newDiv);
 ## Answer:
 - preventDefault() vs stopPropagation() -
 
-preventDefault() : Stops default browser behavior.
+   preventDefault() : Stops default browser behavior.
 
-stopPropagation() : Stops event bubbling.
+   stopPropagation() : Stops event bubbling.
